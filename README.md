@@ -8,7 +8,7 @@
 
 - 👩‍💻 I’m an Informatics and Software Engineering student in Technical University of Sofia 
 - 🌱 Currently learning Frontend Development Frameworks and Advanced UX/UI Principles
-- 🎨 I like to make Graphic Design project in my free time
+- 🎨 I like to make Graphic Design projects in my free time
 - 📫 How to reach me: ina45392@gmail.com
 -->
 ## 🛠️ My Tech Stack
